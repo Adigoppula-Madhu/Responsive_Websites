@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.vr-img {
+    height: 50px;
+    width: 60px;
+}
+
+#nav-item-1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#nav-item-2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#nav-item-3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#nav-item-4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.background-img {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.button {
+    background-color: #1a2137;
+    border-radius: 8px;
+    color: white;
+    height: 35px;
+    width: 110px;
+}
