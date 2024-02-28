@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-color-container {
+    background-color: #f5f7fa;
+
+}
+
+.main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 10px;
+}
+
+.card-container {
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 10px;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.html-img {
+    border-radius: 40px;
+    width: 36%;
+    margin-top: 10px;
+
+}
+
+.camera {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+
+.button1 {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-weight: 600;
+    background-color: transparent;
+    border-style: none;
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+}
+
+.arrow {
+    font-weight: bold;
+    height: 20px;
+    width: 20px;
+}
+
+.tv-img {
+    height: 30%;
+    width: 90%;
+    border-radius: 20px;
+    margin-left: auto;
+}
