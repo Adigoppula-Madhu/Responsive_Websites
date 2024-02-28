@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-heading {
+    font-size: 25px;
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 10px;
+}
+
+.card-container {
+    border-radius: 20px;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+
+    padding: 10px;
+
+}
+
+.card-container2 {
+    border-radius: 20px;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+
+    padding: 10px;
+}
+
+.headphones-heading {
+    font-size: 25px;
+    font-family: "Roboto";
+    color: white;
+    font-weight: bold;
+    margin-top: 150px;
+
+}
+
+.paragraph {
+    color: white;
+}
+
+.button1 {
+    color: #ff9f00;
+    border-radius: 40px;
+    background-color: white;
+    border-style: none;
+    width: 130px;
+    font-weight: 500;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 6px;
+
+}
+
+.span-class {
+    font-weight: bold;
+}
+
+.buy-button {
+    border-style: solid;
+    background-color: white;
+    border-color: #323f4b;
+}
